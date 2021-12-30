@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a blog website.
 - 🌱 I’m currently learning DSA, Algo, MERN stack web development.
 - 😄 Pronouns: He/His
-- 📫 How to reach me at vettrithamil@gmail.com
+- 📫 You can reach me at vettrithamil@gmail.com
 - 💬 Ask me about: MERN Stack, Flutter and Tech related stuffs.
 <!-- - ⚡ Fun fact: I am  -->
 
