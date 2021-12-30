@@ -9,7 +9,11 @@
 <!-- - ⚡ Fun fact: I am  -->
 
 <h2>Connect with me on:</h2>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kaviraghul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Kaviraghul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Kaviraghu.K/)  
+
+[<img src='https://help.twitter.com/content/dam/help-twitter/brand/logo.png' alt='github' height='40' color="white">](https://github.com/Kaviraghul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Kaviraghul)    [<img src='https://www.brennansteil.com/wp-content/uploads/2013/05/linkedin-sociocon.png' alt='linkedin' height='35'>](https://www.linkedin.com/in/Kaviraghu.K/)  
+ 
+ 
+ 
 <img src = "https://github-readme-stats.vercel.app/api?username=Kaviraghul&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 
