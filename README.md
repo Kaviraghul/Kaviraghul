@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning DSA, Algo, MERN stack web development
 - 😄 Pronouns: He/His
 - 💬 Ask me about ...
-- 📫 How to reach me: [Twitter-@vettrithamil](https://twitter.com/vettrithamil)
-- ⚡ Fun fact: ...
+- 📫 How to reach me: [Twitter-@vettrithamil](https://twitter.com/vettrithamil), [Scaler - Kaviraghul](https://www.scaler.com/academy/profile/7d0b40273c60/)
+<!-- - ⚡ Fun fact: I am  -->
 
 
 
