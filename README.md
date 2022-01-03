@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/His
 - 📫 You can reach me at vettrithamil@gmail.com
 - 💬 Ask me about: MERN Stack, Flutter and Tech related stuffs.
-<!-- - ⚡ Fun fact: I am  -->
+- ⚡ Fun fact: I taught coding and software development by my self.
 
 <h2 align="center">Connect with me on:</h2>
 <div align="center">
@@ -28,7 +28,9 @@
  <a href="https://nodejs.org/en/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/node-js.png"/></a>
  <a href="https://www.figma.com/" target="blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
  <a href="https://www.adobe.com/in/products/xd.html" target="blank"><img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/></a>
- <a href="hhttps://firebase.google.com/" target="blank"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
+ <a href="https://firebase.google.com/" target="blank"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
+ <a href="https://www.postman.com/" target="blank"><img width="50" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/></a>
+
 </p> 
 
 
