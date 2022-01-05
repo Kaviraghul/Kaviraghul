@@ -31,7 +31,7 @@
  <a href="https://www.figma.com/" target="blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
  <a href="https://www.adobe.com/in/products/xd.html" target="blank"><img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/></a>
  <a href="https://firebase.google.com/" target="blank"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
- <a href="https://www.postman.com/" target="blank"><img width="50" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/></a>
+ <a href="https://www.postman.com/" target="blank"><img width="48" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/></a>
 
 </p> 
 
