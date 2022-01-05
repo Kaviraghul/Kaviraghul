@@ -7,6 +7,8 @@
 - 📫 You can reach me at vettrithamil@gmail.com
 - 💬 Ask me about: MERN Stack, Flutter and Tech related stuffs.
 - ⚡ Fun fact: I taught coding and software development by my self.
+- <div>You can call me for any adventure activity.<img color="green" width="100px" src="https://www.pngplay.com/wp-content/uploads/8/Sports-Trekking-Background-PNG-Image.png"/></div>
+ 
 
 <h2 align="center">Connect with me on:</h2>
 <div align="center">
