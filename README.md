@@ -1,8 +1,8 @@
 <h1 align="center">Hi I am Kaviraghul 👋</h1>
 
 
-- 🔭 I’m currently working on a blog website.
-- 🌱 I’m currently learning DSA, Algo, MERN stack web development.
+- 🔭 I’m currently working on a E commerce project.
+- 🌱 I’m currently learning Flutter, DSA, Algo, MERN stack web development.
 - 😄 Pronouns: He/His
 - 📫 You can reach me at vettrithamil@gmail.com
 - 💬 Ask me about: MERN Stack, Flutter and Tech related stuffs.
