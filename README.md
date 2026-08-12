@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a E commerce project.
 - 🌱 I’m currently learning Flutter, DSA, Algo, MERN stack web development.
 - 😄 Pronouns: He/His
-- 📫 You can reach me at vettrithamil@gmail.com
+- 📫 You can reach me at kaviraghul.k@gmail.com
 - 💬 Ask me about: MERN Stack, Flutter and Tech related stuffs.
 - ⚡ Fun fact: I taught coding and software development by my self.
 - <div>You can call me for any adventure activity.<img color="green" width="100px" src="https://www.pngplay.com/wp-content/uploads/8/Sports-Trekking-Background-PNG-Image.png"/></div>
@@ -13,7 +13,7 @@
 <h2 align="center">Connect with me on:</h2>
 <div align="center">
  
- [<img src='https://help.twitter.com/content/dam/help-twitter/brand/logo.png' alt='github' height='40' color="white">](https://twitter.com/vettrithamil)<span></span>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Kaviraghul)    [<img src='https://www.brennansteil.com/wp-content/uploads/2013/05/linkedin-sociocon.png' alt='linkedin' height='35'>](https://www.linkedin.com/in/kaviraghul-k-802a90129/)  
+ [<img src='https://help.twitter.com/content/dam/help-twitter/brand/logo.png' alt='github' height='40' color="white">](https://twitter.com/kaviraghul.k)<span></span>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Kaviraghul)    [<img src='https://www.brennansteil.com/wp-content/uploads/2013/05/linkedin-sociocon.png' alt='linkedin' height='35'>](https://www.linkedin.com/in/kaviraghul-k-802a90129/)  
  
 </div>
 
